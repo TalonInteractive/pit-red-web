@@ -1,4 +1,0 @@
-/privacy              /privacy/index.html            200
-/contact              /contact/index.html            200
-/become-a-civilian    /become-a-civilian/index.html  200
-/                     /index.html                   200
