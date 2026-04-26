@@ -1,7 +1,3 @@
-/* ============================================================
-   Pitlochry, Redefined — Main JavaScript
-   ============================================================ */
-
 // ── Nav: add scrolled class ──────────────────────────────────
 (function () {
   const nav = document.querySelector('.nav');
